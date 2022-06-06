@@ -1,7 +1,13 @@
+:root {
+  --ch-blue: #97BFB4;
+  --ch-white: #F5EEDC;
+  --ch-lightred: #DD4A48;
+  --ch-darkred: #4F091D;
+}
+
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: red;
 }
 
 a {
@@ -9,5 +15,5 @@ a {
 }
 
 #map {
-  height: 60vh;
+  height: 80vh;
  }
