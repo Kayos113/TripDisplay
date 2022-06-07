@@ -139,10 +139,9 @@ This project is being developed as an anniversary gift, to eventually be expande
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Leaflet map integration
-- [ ] Leaflet routing machine integration
-- [ ] Map out initial trip, stop coordinates.
-    - [ ] Nested Feature
+#### Next Steps
+- Plot coordinates of trip stops. Map them to an array of objects to eventually be used to iterate through the trip.
+
 
 See the [open issues](https://github.com/Kayos113/TripDisplay/issues) for a full list of proposed features (and known issues).
 
