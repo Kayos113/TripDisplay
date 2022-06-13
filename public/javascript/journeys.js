@@ -180,3 +180,5 @@ let waypoints = [
      lat: -75.178242
   }
 ]
+
+exports.default = waypoints;
